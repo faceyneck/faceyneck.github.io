@@ -14,3 +14,7 @@ Thankfully, I have a few friends who are at least as much of a computer nerd as 
 After registering my custom URL and going to the site's dashboard, I clicked on the tab labelled `DNS Records`. There were quite a few entries there already. Delete them *all*, and get it looking like this:
 
 ![DNS Records](./readmeimages/gandi_dns_records_README_example_01.png)
+
+From what I remember, that's all there was to it, really.
+
+`Remember kids - if at first you don't succeed, you probably weren't drunk enough.`
