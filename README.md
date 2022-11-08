@@ -17,4 +17,4 @@ After registering my custom URL and going to the site's dashboard, I clicked on 
 
 From what I remember, that's all there was to it, really.
 
-`Remember kids - if at first you don't succeed, you probably weren't drunk enough.`
+`Never forget, kids - if at first you don't succeed, you probably weren't drunk enough.`
