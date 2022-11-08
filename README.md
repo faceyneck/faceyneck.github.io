@@ -13,4 +13,4 @@ Thankfully, I have a few friends who are at least as much of a computer nerd as 
 
 After registering my custom URL and going to the site's dashboard, I clicked on the tab labelled `DNS Records`. There were quite a few entries there already. Delete them *all*, and get it looking like this:
 
-![DNS Records](./images/gandi_dns_records_README_example_01.png)
+![DNS Records](./readmeimages/gandi_dns_records_README_example_01.png)
