@@ -14,4 +14,11 @@ permalink: "/testing-assets"
 
 
 #### HTML works, for re-sizing images
+
+{% highlight html %}
+<img src="/assets/avatar/faceyneck_portrait.png" width="30%"/>
+
+{% endhighlight %}
+
+
 <img src="/assets/avatar/faceyneck_portrait.png" width="30%"/>
