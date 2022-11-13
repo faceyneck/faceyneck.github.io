@@ -4,7 +4,7 @@ title: "About me"
 permalink: /about/
 ---
 
-# Hi! I'm faceyneck
+### Hi! I'm faceyneck
 
 Welcome to my site.
 

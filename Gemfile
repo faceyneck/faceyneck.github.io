@@ -9,7 +9,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.3.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+gem "minima", "~> 2.5.1"
+# gem "minima"
 gem "jekyll-theme-yat"
 gem "jekyll-theme-midnight"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
