@@ -42,10 +42,15 @@ plugins:
 minima:
   skin: dark
   # generate social links in footer
+  # social_links:
+  #   twitter: FaceyNeck
+  #   github:  faceyneck
+  #   youtube_channel: UC-7tLqiCdUkyPZrzMIU7bKQ
   social_links:
-    twitter: FaceyNeck
-    github:  faceyneck
-    youtube_channel: UC-7tLqiCdUkyPZrzMIU7bKQ
+    - { platform: github,  user_url: "https://github.com/faceyneck" }
+    - { platform: twitter, user_url: "https://twitter.com/faceyneck" }
+    - { platform: rss, user_url: "https://faceyneck.com"}
+    - { platform: youtube, user_url: "https://www.youtube.com/faceyneck"}
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
