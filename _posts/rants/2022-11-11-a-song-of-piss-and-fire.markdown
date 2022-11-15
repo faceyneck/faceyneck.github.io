@@ -2,7 +2,7 @@
 layout: post
 title: "A Song of Piss and Fire"
 date: 2022-11-13 00:17:00 -0700
-categories: rants politics
+categories: Rants
 permalink: "/a-song-of-piss-and-fire/"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Under Construction"
 date:   2022-11-08 01:35:24 -0700
 categories: Articles
-permalink: "/under-contstruction"
+permalink: "/under-contstruction/"
 ---
 
 ### I don't know what the fuck I'm doing with myself.
