@@ -5,6 +5,14 @@ categories: Rants
 permalink: "/web-development-is-virtually-aids/"
 ---
 
+<style>
+
+.highlight pre{
+  white-space: pre-wrap;
+}
+
+</style>
+
 This website was built using Jekyll, and although it's probably an elegant piece of software, I fuckin' hate it.
 
 I don't hate Jekyll as though it's somehow worse than other web technologies out there; instead I hate it because it _is_ a web technology.
