@@ -21,27 +21,34 @@ This website has been a non-stop headache from the very beginning. Is that uniqu
 
 # FUCK NO!
 
-Here's a wonderful example of the kinds of bull shit one encounters when doing web development. (Referred to extensively in my friend's cirles as "webshit.")
+Here's a wonderful example of the kinds of bull shit one encounters when doing web development. (Referred to extensively in my friends' cirles as "webshit.")
 
 Here's a snippet of code from YouTube, if you wanted to embed a video on your Jekyll website:
 
+![This doesn't work](/assets/webDevelopmentIsVirtuallyAIDS/doesntWork.png)
+
+I had to take a screen shot to get the code to display correctly. If I try to place it in my website as an actual code snippet, not only will it not display in a way so you can see the problem, **it will break my entire fucking website**.
+
+<!-- 
 {% highlight html %}
 
 <iframe width="933" height="527" src="https://www.youtube.com/embed/fwMukKqx-Os" title="George Carlin  About Rape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% endhighlight %}
+{% endhighlight %} -->
 
-That's for a George Carlin video that I was discussing in another post.
+That code is a YouTube embed for a George Carlin video that I was discussing in another post.
 
-# IT DOESN'T WORK
+## IT DOESN'T WORK
 
 **Here** is the snippet of YouTube embed code that _does_ work:
 
-{% highlight html %}
+![This does work](/assets/webDevelopmentIsVirtuallyAIDS/doesWork.png)
+
+<!-- {% highlight html %}
 
 <iframe width="933" height="527" src="https://www.youtube.com/embed/fwMukKqx-Os" title="George Carlin  About Rape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
-{% endhighlight %}
+{% endhighlight %} -->
 
 See the difference?
 
@@ -52,19 +59,12 @@ If you're embedding ***one*** video on your web page, it's all hunky-fucking-dor
 Here's the sole difference that makes all of the... well... difference.
 
 First, the code snippet that doesn't work:
-{% highlight html %}
 
-<iframe width="933"...allowfullscreen></iframe>
-
-{% endhighlight %}
+![Only code that doesn't work](../../assets/webDevelopmentIsVirtuallyAIDS/onlyDifferenceThatDoesntWork.png)
 
 ...and now the one that does:
 
-{% highlight html %}
-
-<iframe width="933"...allowfullscreen> </iframe>
-
-{% endhighlight %}
+![Only code that does work](../../assets/webDevelopmentIsVirtuallyAIDS/onlyDifferenceThatDoesWork.png)
 
 The _only_ difference is one space. _**ONE FUCKING SPACE MAKES ALL THE FUCKING DIFFERENCE GOD FUCKING FUCK**_.
 
