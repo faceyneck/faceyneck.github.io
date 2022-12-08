@@ -7,18 +7,25 @@ permalink: "/a-treatise-on-rape-jokes/"
 youtubeID: fwMukKqx-Os 
 ---
 <style>
-    .ass {
+    body {
+
+        font-size: 133%;
+    }
+
+
+    .centerized {
         display: block;
         width: 75%;
         margin-left: auto;
         margin-right: auto;
 
     }
-
+/* 
     .morril {
-        display: block;
+        display: grid;
         width: 75%;
         margin-left: auto;
+        margin-right: auto;
     }
 
     .carlin {
@@ -29,18 +36,18 @@ youtubeID: fwMukKqx-Os
     }
 
     .sammorriljoke {
-        display: block;
-        width: 120%;
-        padding-left: 40px;
+        display: grid;
+        width: 75%;
         margin-right: auto;
+        margin-left: auto;
         
-    }
+    } */
 </style>
 
 
-![Shibari Woman Watercolor](../../assets/aTreatiseOnRapeJokes/shibariOilified02.png)
+<!-- ![Shibari Woman Watercolor](../../assets/aTreatiseOnRapeJokes/shibariOilified02.png) -->
 
-
+<img class="centerized" src="/assets/aTreatiseOnRapeJokes/shibariOilified02.png"/>
 
 >You weren't here for long; I guess my presence was a failure
 >
@@ -50,14 +57,14 @@ youtubeID: fwMukKqx-Os
 
 The quickest way to ruin a joke is to explain why it's a joke. Considering the seriousness of what I'm writing about here, I figure I might as well start with a banal example:
 
-<img alt="Describe your ass using only a pic of it." class="ass" src="/assets/aTreatiseOnRapeJokes/describeYourAss.jpg"/>
+<img alt="Describe your ass using only a pic of it." class="centerized" src="/assets/aTreatiseOnRapeJokes/describeYourAss.jpg"/>
 
 
 This 'joke' had to be explained to me. Not because it was offensive... I don't think. 🤔 It was because I simply couldn't figure out the fucking joke to begin with.
 
 Here's the explanation:
 
-<img alt="Explanation of the fucking meme" src="/assets/aTreatiseOnRapeJokes/describeYourAssExplanation.png"/>
+<img alt="Explanation of the fucking meme" class="centerized" src="/assets/aTreatiseOnRapeJokes/describeYourAssExplanation.png"/>
 
 Kittens are always welcome, even if they're in a meme that I didn't understand at the time.
 
@@ -65,16 +72,19 @@ There wasn't ever a chance I was going to appreciate that joke. Maybe someone wi
 
 What follows is a joke that I did understand, and would like to talk about:
 
-<div class="sammorriljoke">
-<img alt="Sam Morril Joke" src="/assets/aTreatiseOnRapeJokes/samMorrilJoke.png"/>
-</div>
+<br>
+
+<img class="centerized" alt="Sam Morril Joke" src="/assets/aTreatiseOnRapeJokes/samMorrilJoke.png"/>
+
+
 That's from [this guardian.com article](https://www.theguardian.com/commentisfree/2015/aug/10/jokes-finally-funny-because-culture-at-the-butt-of-them)
 
 [This](https://www.youtube.com/shorts/RnQC6XoG5mQ) is a YouTube #short clip of the joke told by Sam Morril
 
-<div class="morril">
-<iframe width="346" height="615" src="https://www.youtube.com/embed/RnQC6XoG5mQ" title="She Was on the Pill - Sam Morril" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-</div>
+
+<iframe class="centerized" width="346" height="615" src="https://www.youtube.com/embed/RnQC6XoG5mQ" title="She Was on the Pill - Sam Morril" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
+
 <br>
 
 I'm pretty sure I laughed when I read that joke as written out by Rebecca Solnit. I also don't think it's "punching down" toward rape victims, suggesting that sex with unconscious women is inherently sexual violence. Moreover, I'm gonna go ahead and ruin the joke all the same, by explaining the fuck out of it.
@@ -92,9 +102,7 @@ I think this is going on too long, so I'm just gonna add one other thing and the
 Here's about 5 minutes of rape jokes by ![George Carlin](https://www.youtube.com/watch?v=fwMukKqx-Os)
 
 
-<div class="carlin">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fwMukKqx-Os/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
-</div>
+<iframe class="centerized" width="560" height="315" src="https://www.youtube.com/embed/fwMukKqx-Os/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 
 The first half of the video is rape jokes, and the latter half is a monologue about censorship and feminism. Probably about as controversial a topic as any, and I think I agree with everything he says in that clip. It's from his special [Doin' It Again](https://www.youtube.com/watch?v=Kqk0Ewug280&list=PLT4KlasshNNL5FQm0YO15ACRtXnzkT3D-).
 
