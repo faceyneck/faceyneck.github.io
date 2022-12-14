@@ -50,5 +50,13 @@ We're listening to Nirvana's *In Utero* album. Nirvana is usually the go-to musi
 
 "Well, I haven't seen a dead body that I can be sure of. There was a guy firing at us one night, and after we shot off some mortar rounds, one looked like it landed in the right spot. The infra-red camera picked up a torso that wasn't moving any more. Or shooting at us, for that matter."
 
-I crack a twisted smile, "Well, he probably had brown skin, so it's not like you killed someone with a soul or something. Or a family, or anyone important."
+I crack a twisted smile, "Well, he probably had brown skin, so it's not like you killed someone with a soul or something. What's important is that you assisted in keeping the opium trade alive in the Mid East. And gas, of course."
+
+He knows I'm joking.
+
+"Yeah, fuckin' towel heads. I mean, they're being invaded by crackers, it makes sense why he'd be fighting back. At least he was looking forward to dozens of virgins in Heaven after we blew him to bits."
+
+Ethan's also joking. It's so _painfully_ obvious to the both of us that all groups of people objectively have the same value, we talk like racists most of the time for shits and giggles. We see no point in waxing on about the value of humans being the same everywhere. That should be horrifyingly apparent to everyone, everywhere, like it is to us.
+
+It's nice to have someone who understands my pitch-black sense of humor.
 

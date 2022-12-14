@@ -99,7 +99,7 @@ Comedy is a coping mechanism; a way to discuss things while adding a levity that
 
 I think this is going on too long, so I'm just gonna add one other thing and then wrap this the fuck up.
 
-Here's about 5 minutes of rape jokes by ![George Carlin](https://www.youtube.com/watch?v=fwMukKqx-Os)
+Here's about 5 minutes of rape jokes by George Carlin.
 
 
 <iframe class="centerized" width="560" height="315" src="https://www.youtube.com/embed/fwMukKqx-Os/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
