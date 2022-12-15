@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Cherch"
+date:   2022-12-15 00:31:00 -0700
+categories: Art
+permalink: "/cherch/"
+---
+
+# Meme Man goes to CHERCH
+
+![CHERCH](/assets/cherch/cherch.png)
