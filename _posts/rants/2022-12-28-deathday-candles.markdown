@@ -20,6 +20,6 @@ permalink: "/deathday-candles/"
 
 I know most people consider blowing out candles on a birthday cake to be an act of celebration.
 
-I don't have in recent memory been able to understand this. It seems to me like a representation of the death of one's life; each candle being blown out representing one more year gone, and pre-emptively blowing out a candle for the year ahead.
+I don't have a recent memory of being able to understand this. It seems to me like a representation of the death of one's life; each candle being blown out representing one more year gone, and pre-emptively blowing out a candle for the year ahead.
 
 Is this the *correct* way to interperet blowing out candles? Probably-fucking-not, but it is the fucked up way I look at things.
