@@ -20,3 +20,5 @@ permalink: "/party-pooper-coupon/"
 # Now you don't need to do any partying, ever...
 
 <img src="/assets/partyPooper/noParty.png" class="party">
+
+(I didn't come up with the idea for this. Lily did.)
